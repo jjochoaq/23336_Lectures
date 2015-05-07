@@ -1,0 +1,53 @@
+\documentclass[xcolor=table, x11names]{beamer}
+
+
+\usetheme{Madrid}
+
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+\usepackage{graphicx}
+
+\usepackage{siunitx}
+
+\title{23336 Química Orgánica}
+
+\subtitle{Licenciatura en Biología y Química, M.Sc.}
+
+\author{J.J. Ochoa Quintero}
+
+\institute[Uniatlántico]{\includegraphics[scale=0.25]{23336_Images/EscudoUA.jpg}\\
+Departamento de Química\\
+  Facultad de Ciencias Básicas\\
+  Universidad del Atlántico}
+
+\date{CERES Sabanagrande, Mayo 2015}
+
+\subject{Química Orgánica}
+
+\pgfdeclareimage[height=0.75cm]{LogoUA}{Images/LogoUA.jpg}
+\logo{\pgfuseimage{LogoUA}}
+
+\AtBeginSubsection[]
+{
+  \begin{frame}<beamer>{Outline}
+    \tableofcontents[currentsection,currentsubsection]
+  \end{frame}
+}
+
+% Let's get started
+\begin{document}
+
+\begin{frame}
+  \titlepage
+\end{frame}
+
+\begin{frame}{Outline}
+  \tableofcontents
+  % You might wish to add the option [pausesections]
+\end{frame}
+
+%\include{23336_Lecture-01}
+\include{23336_Lecture-02}
+\end{document}
