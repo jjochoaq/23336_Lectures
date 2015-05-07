@@ -1,0 +1,248 @@
+\section{Isomería y grupos funcionales}
+
+\subsection{Estructura patón y grupos}
+
+\begin{frame}{Estructuras patrones y grupos}{Estructuras químicas orgánicas}
+Los compuestos orgánicos constan de una ``\emph{estructura patrón}'', uno o más ``\emph{grupos}''.
+
+\begin{columns}
+\column{0.5\textwidth}
+\includegraphics[scale=0.65]{23336_Images/leucine_molecule.png}
+
+\includegraphics[scale=0.65]{23336_Images/parent_structure.png}
+
+\column{0.5\textwidth}
+\includegraphics[scale=0.65]{23336_Images/Principal_group.png}
+
+\includegraphics[scale=0.65]{23336_Images/Substituent_atom_or_group.png}
+\end{columns}
+\end{frame}
+
+\begin{frame}{Estructuras patrones y grupos}{estructura patrón}
+\begin{columns}
+\column{0.4\textwidth}
+\begin{block}{Hidruro patrón}
+Estructura catenular acíclica, cíclica o combinada, sin ramificaciones, a la cual están enlazados, únicamente, hidrógenos. 
+\end{block}
+\includegraphics[scale=0.55]{23336_Images/hydride_parent.png}
+
+\column{0.4\textwidth}
+\includegraphics[scale=0.55]{23336_Images/funcional_parent.png}
+\begin{block}{Patrón funcional}
+Estructura que presenta uno o más grupos funcionales y tiene uno o más hidrógenos enlazados al esqueleto estructural o a uno de sus grupos funcionales.
+\end{block}
+\end{columns}
+\end{frame}
+
+\begin{frame}{Estructuras patrones y grupos}{Hidrocarburos}
+Los hidruros patrón más recurrentes en química orgánica son \emph{los hidrocarburos}.
+
+\begin{block}{Hidrocarburo}
+Compuestos cuya composición elemental consta únicamente de carbono e hidrógeno.
+\end{block}
+De acuerdo a la estructura, los hidrocarburos pueden clasificarse en:
+\begin{enumerate}
+\item Hidrocarburos acíclicos.
+\item Hidrocarburos monocíclicos.
+\item Hidrocarburos policíclicos fusionados.
+\item Hidrocarburos policíclicos puenteado.
+\item Hidrocarburos policíclicos \emph{spiro}.
+\item Hidrocarburos policíclicos ensamblados.
+\end{enumerate}
+\end{frame}
+
+\begin{frame}{Estructuras patrones y grupos}{Hidrocarburos acíclicos}
+
+\begin{block}{Definición}
+Estructura catenular de carbono, abierta, en la cual los carbonos están enlazados entre si y a hidrógenos.
+\end{block}
+
+\centering
+\includegraphics[scale=0.30]{23336_Images/heptane.png}
+
+\begin{block}{Nomenclatura sistemática}
+\begin{enumerate}
+\item El nombre genéricos de los hidrocarburos acíclicos ``saturados'' es \emph{alcanos}.
+\item Los hidrocarburos acíclicos C1 a C4 se nombran metano, etano, propano y butano.
+\item Los nombres sistemáticos de los hidrocarburos acíclicos superiores consiste de un término numérico seguido por \emph{ano}, con elisión de la vocal terminal del termino numérico básico.
+\end{enumerate}
+\end{block}
+\end{frame}
+
+\begin{frame}{Estructuras patrones y grupos}{Hidrocarburos acíclicos}
+
+\begin{block}{Términos numéricos básicos}
+\centering\small
+\begin{tabular}{cccccc}
+\hline
+ Nro. & Prefijo &  Nro. & Prefijo &  Nro. & Prefijo\\
+ \hline
+ 1 & mono-\footnote[1]{\emph{mono-} se usa para indicar 1 como dígito disociado de otro. Cuando 1 está asociado con otros dígitos, se usa \emph{hen-}, exceptuando \emph{undeca-} (11).} & 30 & triaconta- & 700 & heptacta-\\
+ 2 & di--\footnote[2]{\emph{di-} se usa para indicar 2 como dígito disociado de otro. Cuando 2 está asociado con otros dígito, se usa \emph{do-}, exceptuando \emph{dicta-} (200) y \emph{dilia-} (2000).} & 40 & tretaconta- & 800 & octacta-\\
+ 3 & tri- & 50 & pentaconta- & 900 & nonacta-\\
+ 4 & tetra- & 60 & hexaconta- & 1000 & kilia-\\
+ 5 & penta- & 70 & heptaconta- & 2000 & dilia-\\
+% 6 & hexa- & 80 & octaconta- & 3000 & trilia-\\
+% 7 & hepta- & 90 & nonaconta- & 4000 & tetralia-\\
+% 8 & octa- & 100 & hecta- & 5000 & pentalia-\\
+% 9 & nona- & 200 & dicta- & 6000 & hexalia-\\
+% 10 & deca- & 300 & tricta- & 7000 & heptalia-\\
+% 11 & undeca- & 400 & tetracta- & 8000 & octalia-\\
+% 12 & dodeca-\footnote[3]{Después de \emph{dodeca-} (12), los términos numéricos compuestos se forman sistemáticamente, citando los términos básicos en el orden opuesto al de los números arábigos constituyentes. Por ejemplo, el término numérico para el número 468 es \emph{octahexacontatetracta-}.} & 500 & pentacta- & 9000 & nonalia-\\
+% 20 & icosa-\footnote  
+%[4]{\emph{Chemical Abstracts Service} y \emph{Beilstein} use \emph{eicosa-} a cambio de \emph{icosa-}.} & 600 & hexacta- & & \\
+  \hline
+\end{tabular}
+\end{block}
+
+\begin{figure}
+\centering
+\includegraphics[scale=0.35]{23336_Images/mono_vs_hen_&_di_vs_do.png}
+\end{figure}
+\end{frame}
+
+\begin{frame}{Estructuras patrones y grupos}{Hidrocarburos acíclicos}
+\begin{block}{Términos numéricos básicos}
+\centering\small
+\begin{tabular}{cccccc}
+\hline
+ Nro. & Prefijo &  Nro. & Prefijo &  Nro. & Prefijo\\
+ \hline
+% 1 & mono-\footnote[1]{\emph{mono-} se usa para indicar 1 como dígito disociado de otro. Cuando 1 está asociado con otros dígitos, se usa \emph{hen-}, exceptuando \emph{undeca-} (11).} & 30 & triaconta- & 700 & heptacta-\\
+% 2 & di--\footnote[2]{\emph{di-} se usa para indicar 2 como dígito disociado de otro. Cuando 2 está asociado con otros dígito, se usa \emph{do-}, exceptuando \emph{dicta-} (200) y \emph{dilia-} (2000).} & 40 & tretaconta- & 800 & octacta-\\
+% 3 & tri- & 50 & pentaconta- & 900 & nonacta-\\
+% 4 & tetra- & 60 & hexaconta- & 1000 & kilia-\\
+% 5 & penta- & 70 & heptaconta- & 2000 & dilia-\\
+ 6 & hexa- & 80 & octaconta- & 3000 & trilia-\\
+ 7 & hepta- & 90 & nonaconta- & 4000 & tetralia-\\
+ 8 & octa- & 100 & hecta- & 5000 & pentalia-\\
+ 9 & nona- & 200 & dicta- & 6000 & hexalia-\\
+ 10 & deca- & 300 & tricta- & 7000 & heptalia-\\
+ 11 & undeca- & 400 & tetracta- & 8000 & octalia-\\
+ 12 & dodeca-\footnote[3]{Después de \emph{dodeca-} (12), los términos numéricos compuestos se forman sistemáticamente, citando los términos básicos en el orden opuesto al de los números arábigos constituyentes. Por ejemplo, el término numérico para el número 468 es \emph{octahexacontatetracta-}.} & 500 & pentacta- & 9000 & nonalia-\\
+ 20 & icosa-\footnote[4]{\emph{Chemical Abstracts Service} y \emph{Beilstein} use \emph{eicosa-} a cambio de \emph{icosa-}.} & 600 & hexacta- & & \\
+  \hline
+\end{tabular}
+\end{block}
+\end{frame}
+
+\begin{frame}{Estructuras patrones y grupos}{Hidrocarburos acíclicos}
+\begin{alertblock}{Ejercicio 1: Términos numéricos compuestos}
+\begin{enumerate}
+\item Escriba los términos numéricos para los siguientes números:
+\begin{enumerate}
+\item 25
+\item 342
+\item 909
+\item 1575
+\item 7611
+\end{enumerate}
+\item Escriba los números para los siguientes términos numéricos:
+\begin{enumerate}
+\item dopentaconta-
+\item tetraoctacontahexacta-
+\item octadecaoctactakilia-
+\item pentacosahectatrilia-
+\item henimonocotanonactanonalia-
+\end{enumerate}
+\end{enumerate}
+\end{alertblock}
+\end{frame}
+
+\begin{frame}{Estructuras patrones y grupos}{Hidrocarburos monocíclicos}
+\begin{block}{Definición}
+Estructura catenular de carbono, cerrada, en la cual los carbonos están enlazados entre si y a hidrógenos.
+\end{block}
+
+\centering
+\includegraphics[scale=00.75]{23336_Images/cycloalcanes&annulenes.png}
+\end{frame}
+
+\begin{frame}{Estructuras patrones y grupos}{Hidrocarburos monocíclicos}
+\begin{block}{Nomenclatura sistemática de cicloalcanos}
+Los nombres de los cicloalcanos se forman añadiendo el prefijo ``ciclo-'' al nombre del alcano con el mismo número de átomos de carbono.
+\end{block}
+
+\centering
+\includegraphics[scale=1.00]{23336_Images/cyclotetradecane.png}
+\end{frame}
+
+\begin{frame}{Estructuras patrones y grupos}{Hidrocarburos monocíclicos}
+% \begin{block}{Definición de anulenos}
+% Hidrocarburos monocíclicos no-sustituidos que tiene el número máximo de dobles enlaces no acumulados y con una fórmula general de $C_{n}H_{n}$ o $C_{n}H_{2n + 1}$ (con n > 6).
+% \end{block}
+
+\begin{block}{Nomenclatura sistemática de anulenos}
+Un anuleno de formula general $C_{n}H_{n}$ se nombra [n] anuleno, donde n es el número de átomos de carbono del anillo. Cuando n es un número impar, es decir, cuando el anuleno tiene la fórmula general $C_{n}H_{2n + 1}$ (con $n > 6$) el átomo de hidrógeno adicional se indica por el ``\emph{indicador de hidrógeno}'' apropiado.
+\end{block}
+
+\centering
+\includegraphics[scale=1.00]{23336_Images/annulene_names.png}
+\end{frame}
+
+\begin{frame}{Estructuras patrones y grupos}{Hidrocarburos policíclicos fusionados}
+\centering
+\includegraphics[scale=0.65]{23336_Images/fused_rings.png}
+\end{frame}
+
+\begin{frame}{Estructuras patrones y grupos}{Hidrocarburos policíclicos \emph{spiro}}
+\begin{block}{Definición de hidrocarburos policíclicos \emph{spiro}}
+Hidrocarburos policíclicos que presentan una \emph{unión spiro}, es decir, un átomo común a dos ciclos. Dependiendo del número de átomos \emph{spiro}, los sistemas cíclicos podrán distinguirse como monospiro, dispiro, trispiro, etc. 
+\end{block}
+
+\centering
+\includegraphics[scale=0.65]{23336_Images/spiro_hydrocarbons.png}
+\end{frame}
+
+\begin{frame}{Estructuras patrones y grupos}{Hidrocarburos policíclicos \emph{spiro}}
+\begin{block}{Nomenclatura de hidrocarburos \emph{monospiro}}
+Se antepone el prefijo ``\emph{spiro}'' al nombre del hidrocarburo acíclico con el mismo número total de carbono. Los números de carbono unidos al átomo de \emph{spiro} en cada anillo, se ubican entre el prefijo \emph{spiro} y el nombre de hidrocarburo, en orden ascendente, agrupados entre corchetes y separados por puntos.
+
+La numeración empieza en el carbono adyacente al átomo \emph{spiro} del ciclo más pequeño y continúa alrededor de dicho ciclo, después, a través del átomo \emph{spiro} y, luego, alrededor del segundo ciclo.
+\end{block}
+
+\begin{figure}
+\centering
+\includegraphics[scale=0.65]{23336_Images/monospiro_name.png}
+\end{figure}
+\end{frame}
+
+\begin{frame}{Estructuras patrones y grupos}{Hidrocarburos \emph{spiro}}
+
+\begin{figure}
+\centering
+\includegraphics[scale=0.65]{23336_Images/polyspiro_numering.png}
+\end{figure}
+
+\begin{block}{Numeración}
+La numeración empieza en el carbono más conveniente de los dos adyacentes al átomo ``spiro'' del ciclo más pequeño, siguiendo alrededor de dicho ciclo, por el camino más corto, hasta el primer átomo ``spiro''; desde aquí, hasta el último átomo ``spiro'', tomando, sucesivamente, las rutas más cortas de los ciclos internos; luego, alrededor del último ciclo y las semirutas definidas por los átomos no numerados de los ciclos internos hasta el primer átomo ``spiro''.
+\end{block}
+\end{frame}
+
+\begin{frame}{Estructuras patrones y grupos}{Hidrocarburos policíclicos \emph{spiro}}
+\begin{block}{Nomenclatura de hidrocarburos \emph{polispiro}}
+Se antepone el prefijo ``dispiro-'', ``trispiro-'', ``tetraspiro-'', etc., en lugar de ``spiro-'', al nombre del hidrocarburo acíclico con el mismo número total de carbonos.  Los números de carbonos unidos al átomo de ``spiro'' en cada ciclo terminal y entre los átomos  spiro en los otros ciclos, se  ubican entre el prefijo ``spiro-'' y el nombre de hidrocarburo, en el orden de la numeración, agrupados entre corchetes y separados por puntos.
+\end{block}
+\end{frame}
+
+\begin{frame}{Estructuras patrones y grupos}{Hidrocarburos policíclicos \emph{spiro}}
+\begin{figure}
+\centering
+\includegraphics[scale=0.65]{23336_Images/polyspiro_names.png}
+\end{figure}
+\end{frame}
+
+
+
+
+
+\begin{frame}{Estructuras patrones y grupos}{Grupo funcional}
+\begin{block}{Definición de grupo funcional}
+Átomo o grupo de átomos que tiene propiedades químicas similares sin importar que esté presente en compuestos diferentes. Define las propiedades físicas y químicas características de las familias de compuestos orgánicos.
+\end{block}
+\end{frame}
+
+\subsection{Isómeros}
+
+
+\subsection{Nomenclatura}
